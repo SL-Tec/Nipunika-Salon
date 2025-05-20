@@ -70,11 +70,6 @@ The website can be deployed to any web hosting service. ☁️ No server-side pr
 4.  Push to the branch (`git push origin feature/amazing-feature`) ⬆️
 5.  Open a Pull Request 📬
 
-## 📧 Contact
-
-For questions or inquiries about the website, please contact:
-
-  - Email: info@nipunikasalon.com ✉️
 
 ## 📄 License
 
